@@ -1,7 +1,8 @@
 {
-  "latest_version": "1.5.0",
-  "release_date": "2026-09-03",
-  "update_channel": "Stable",
-  "installer_url": "",
-  "release_notes": "Initial update-system test manifest."
+    "latest_version": "1.5.0",
+    "release_date": "2026-09-05",
+    "update_channel": "Stable",
+    "installer_url": "https://github.com/Zeeborx/ShelfTracker/releases/download/v1.5.0/ShelfTracker_Setup_1.5.0.exe",
+    "installer_sha256": "445d1ad35b68b82c39426996f3d8deef1c0356f0cba29243b9ad7a185be16af8",
+    "release_notes": "Shelf Tracker 1.5.0 adds the new application-managed update system, workflow improvements, analytics, batch inventory tools, archive and restore support, custom layouts and item types, and Windows upgrade-in-place support."
 }
